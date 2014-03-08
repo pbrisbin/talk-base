@@ -1,4 +1,4 @@
-# Base Talk
+# Base
 
 - Reveal.js 2.6.1
 - Separate markdown files
