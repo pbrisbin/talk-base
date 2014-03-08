@@ -19,5 +19,5 @@ $ npm install
 $ grunt serve
 $ $BROWSER http://localhost:8000
 $ $EDITOR index.html  # change title, add sections
-$ $EDITOR slides/*.ms # add content
+$ $EDITOR slides/*.md # add content
 ```
